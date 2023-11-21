@@ -18,6 +18,9 @@ pickle used for load the model
 
 DataSet Link- https://www.kaggle.com/datasets/gauravduttakiit/weather-in-aus
 
+Project Documentation- https://github.com/smartinternz02/SI-GuidedProject-608872-1697870922/blob/main/Performance%20%26%20Final%20Submission%20Phase/Project%20Documentation%20.pdf
+
+
 Output-
 user interface
 ![Screenshot (258)](https://github.com/smartinternz02/SI-GuidedProject-608872-1697870922/assets/112549645/5825b66e-9d9e-4ea0-8055-fe684c638d20)
