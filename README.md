@@ -1,7 +1,7 @@
-In this project "Rainfall Prediction using Machine Learning " I have created the flask webapp using ML. This app takes
+In this project "Rainfall Prediction using Machine Learning" we have created the flask webapp using ML. This app takes
 input as per the dataset and gives the prediction about the rainfall.
 
-I have used several Models like -
+We have used several Models like -
 catboost 
 guisssian naive
 logistics
@@ -11,7 +11,7 @@ But over all, catboost's accuracy is more
 
 For the web app, **flask** is used 
 
-For User Interface, **Html and css** is used 
+For User Interface, **HTML and CSS** is used 
 
 **pickle** is used to load the model
 
@@ -21,8 +21,10 @@ DataSet Link- https://www.kaggle.com/datasets/gauravduttakiit/weather-in-aus
 Project Documentation- https://github.com/smartinternz02/SI-GuidedProject-608872-1697870922/blob/main/Performance%20%26%20Final%20Submission%20Phase/Project%20Documentation%20.pdf
 
 
-Output-
+**Output-**
+
 User Interface
+
 ![Screenshot (258)](https://github.com/smartinternz02/SI-GuidedProject-608872-1697870922/assets/112549645/5825b66e-9d9e-4ea0-8055-fe684c638d20)
 
 Taking input from data set
